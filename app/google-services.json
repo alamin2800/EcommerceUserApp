@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "1094060802016",
+    "project_id": "ecommerce-32c75",
+    "storage_bucket": "ecommerce-32c75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094060802016:android:9441ab1207e2aca7e77585",
+        "android_client_info": {
+          "package_name": "com.example.ecomadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094060802016-1125ds17npkjkkqco655ujf08cupa8tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSmyEdWHiJdA8-XOfpW55n_2XOpVnCVWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094060802016-1125ds17npkjkkqco655ujf08cupa8tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094060802016:android:17ff06b305cc3d3ee77585",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094060802016-1125ds17npkjkkqco655ujf08cupa8tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSmyEdWHiJdA8-XOfpW55n_2XOpVnCVWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094060802016-1125ds17npkjkkqco655ujf08cupa8tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094060802016:android:7dea6f49cf5a5052e77585",
+        "android_client_info": {
+          "package_name": "com.example.ecomuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094060802016-1125ds17npkjkkqco655ujf08cupa8tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSmyEdWHiJdA8-XOfpW55n_2XOpVnCVWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094060802016-1125ds17npkjkkqco655ujf08cupa8tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094060802016:android:2068dd5c1af35bb8e77585",
+        "android_client_info": {
+          "package_name": "com.example.mygooglemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094060802016-1125ds17npkjkkqco655ujf08cupa8tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSmyEdWHiJdA8-XOfpW55n_2XOpVnCVWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094060802016-1125ds17npkjkkqco655ujf08cupa8tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
